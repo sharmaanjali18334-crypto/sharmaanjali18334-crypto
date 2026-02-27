@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anjali Sharma 👋
 
-<!--
-**sharmaanjali18334-crypto/sharmaanjali18334-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📊 Skilled in Excel, SQL, and Power BI  
+📈 Passionate about data visualization and business insights  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Excel
+- SQL
+- Power BI
+- Data Visualization
+- Data Cleaning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🍫 Chocolate Sales Dashboard (Power BI)
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/anjali-sharma-913a8735b
